@@ -35,3 +35,7 @@ Now, let's use your skills working with weather data to plan future vacations. U
 * Zero cloudiness.
 * Drop any rows that don't satisfy all three conditions. You want to be sure the weather is ideal.
 * Use Google Places API to find the first hotel for each city located within 5,000 meters of your coordinates.
+
+### Heatmap Result
+
+![Heatmap](/Images/Heatmap.JPG)
